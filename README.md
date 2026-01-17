@@ -135,7 +135,3 @@ The dataset contains 5000 customer records with the following features:
 - Ensure your dataset is placed in `data/raw/` before training
 - Update the `target_column` in `config.yaml` based on your dataset
 - The model supports both Random Forest and Logistic Regression
-
-## License
-
-[Add your license here]
