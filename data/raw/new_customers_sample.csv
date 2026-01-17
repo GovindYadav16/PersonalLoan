@@ -1,0 +1,6 @@
+ID,Age,Experience,Income,ZIPCode,Family,CCAvg,Education,Mortgage,Securities_Account,CD_Account,Online,CreditCard
+1,25,1,49,91107,4,1.6,1,0,1,0,0,0
+2,45,19,34,90089,3,1.5,1,0,1,0,0,0
+3,39,15,11,94720,1,1.0,1,0,0,0,0,0
+4,35,9,100,94112,1,2.7,2,0,0,0,0,0
+5,35,8,45,91330,4,1.0,2,0,0,0,0,1
