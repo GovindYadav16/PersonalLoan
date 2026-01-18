@@ -1,10 +1,10 @@
-# Personal Loan ML Project - AllLife Bank
+# Personal Loan ML Project - BXB Bank
 
 A machine learning project for predicting personal loan purchases for AllLife Bank customers using various classification algorithms.
 
 ## Business Context
 
-**AllLife Bank** is a US bank with a growing customer base, primarily consisting of liability customers (depositors). The bank has a small number of borrowers (asset customers) and aims to rapidly expand its loan business to increase interest earnings. 
+**BXB Bank** is a US bank with a growing customer base, primarily consisting of liability customers (depositors). The bank has a small number of borrowers (asset customers) and aims to rapidly expand its loan business to increase interest earnings. 
 
 **Problem Statement:** Management wants to convert existing liability customers into personal loan customers while retaining them as depositors. A campaign last year for liability customers achieved a conversion rate of over 9%, encouraging the retail marketing department to develop more targeted campaigns.
 
